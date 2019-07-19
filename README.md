@@ -1,0 +1,2 @@
+# osmc
+repository.osmc.plugins
